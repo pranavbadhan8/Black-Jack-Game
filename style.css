@@ -1,0 +1,36 @@
+.container{
+    width: 300px;
+    height: 400px;
+    background-color:darkcyan;
+    margin: 100px auto;
+    border: 2px solid goldenrod;
+    border-radius: 15px;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+}
+
+h1{
+  margin: 20px auto;
+  color: gold;  
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+  margin: 10px auto;
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  padding: 0px 10px ;
+  text-align: center;
+}
+
+button{
+  width: 150px;  
+  margin: 5px auto;
+  padding: 5px 20px;
+  background-color: white;
+  color: darkcyan;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
